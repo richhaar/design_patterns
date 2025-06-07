@@ -1,6 +1,6 @@
 # The Strategy Pattern
 
-Run online with godbolt: [https://godbolt.org/z/KWvn8j7qs](https://godbolt.org/z/KWvn8j7qs.)
+Run online with godbolt: [https://godbolt.org/z/KWvn8j7qs](https://godbolt.org/z/KWvn8j7qs).
 ## Definition:
 
 From *Head First Design Patterns*:

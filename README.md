@@ -22,7 +22,7 @@ Examples have been built with C++23
 ### Building and running examples - Online
 
 Each subdirectory will have a readme to a Godbolt.org link which will compile and run the code on the web browser. For
-example the strategy pattern code can be run here: [https://godbolt.org/z/KWvn8j7qs](https://godbolt.org/z/KWvn8j7qs.)
+example the strategy pattern code can be run here: [https://godbolt.org/z/KWvn8j7qs](https://godbolt.org/z/KWvn8j7qs).
 
 ### Building and running examples - locally - Linux
 
