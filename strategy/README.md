@@ -1,6 +1,7 @@
 # The Strategy Pattern
 
-Run online with godbolt: [https://godbolt.org/z/KWvn8j7qs](https://godbolt.org/z/KWvn8j7qs).
+Run online with Godbolt: [https://godbolt.org/z/KWvn8j7qs](https://godbolt.org/z/KWvn8j7qs).
+
 ## Definition:
 
 From *Head First Design Patterns*:
@@ -12,7 +13,7 @@ From *Head First Design Patterns*:
 
 In this case we have created a `Duck` class which has `Fly()` and `Quack()` methods.
 
-Rather than making `Fly()` abstract in `Duck()` we can provide a set of behaviours for both `Fly` and `Quack`
+Rather than making `Fly()` abstract in the `Duck` class, we can provide a set of behaviours for both `Fly` and `Quack`
 and use composition to create concrete subclasses of `Duck`.
 
 ## Design Principles:
